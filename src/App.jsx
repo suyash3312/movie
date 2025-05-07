@@ -1,5 +1,5 @@
 import { useState , useEffect} from 'react'
-import Search from './components/search.jsx'
+import Search from './components/search'
 
 import './App.css'
 // const API_BASE_URL = 'https://api.themoviedb.org/3/trending/movie/{time_window}'
